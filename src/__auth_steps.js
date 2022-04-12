@@ -9,5 +9,7 @@
  * 8. useCreateUserWithEmailAndPassword from react firebse hooks
  * 9. if user is created redicrect to the expected page 
  * 10. useCreateUserWithEmailAndPassword for sign in
-
+ * 11. create RequireAuth component ==> check user exists tract user information
+ * 12. In route wrap Protected Component by using RequireAuth component ..
+*
 */
